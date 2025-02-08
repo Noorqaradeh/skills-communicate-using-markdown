@@ -11,3 +11,7 @@ We can get Javascript code
 const age = getAge()
 console.log(age)
 ```
+
+Take list, what a command
+- [x] First item
+- [ ] Second ITem 
